@@ -1,0 +1,10 @@
+.linear-gradient-bg{
+    background: linear-gradient(90deg, rgba(56,215,226,1) 0%, rgba(16,136,247,1) 100%);
+}
+
+.login-container{
+    width: 385px;
+    top: 45%;
+    left: 30%;
+    transform: translateY(-50%);
+}

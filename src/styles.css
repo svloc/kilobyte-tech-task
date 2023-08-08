@@ -17,3 +17,73 @@ body {
     font-family: 'Mulish', sans-serif !important;
     color: #183153;
 }
+
+:root {
+    --font-mulish: font-family: 'Mulish', sans-serif;
+    --btn-color: #0068ff;
+    --orange-light-color: #bfca02;
+    --box-shadow-input: 0 0 0 0.012rem var(--btn-color);
+    --box-shadow-input-focus: 0 0 0 0.11rem var(--btn-color);
+    --box-shadow-danger-btn-focus: 0 0 0 0.11rem var(--orange-light-color);
+    --white-color: #fff;
+}
+
+.text-blue {
+    color: var(--btn-color) !important;
+}
+.bg-blue{
+    background-color: var(--btn-color) !important;
+}
+
+.form-input,
+.btn {
+    border-radius: 7px;
+    padding: 0.75rem 1em;
+    border: 1px solid transparent;
+    box-shadow: var(--box-shadow-input) !important;
+    transition: all 0.2s ease-out;
+    font-family: var(--font-mulish);
+    width: 100%;
+}
+
+.form-input:focus-visible,
+.form-input:focus {
+    outline: 0;
+    box-shadow: var(--box-shadow-input-focus) !important;
+}
+
+input:-internal-autofill-selected {
+    background-color: var(--white-color) !important;
+}
+
+.input[disabled],
+input[readonly] {
+    background-color: #f5f3ff !important;
+}
+
+input.ng-invalid.ng-touched {
+    box-shadow: var(--box-shadow-danger-btn-focus) !important;
+    border: 1px solid transparent;
+}
+
+.btn {
+    padding: 0.65rem 1em;
+    border: 1px solid transparent;
+    transition: all 0.2s ease-out;
+    cursor: pointer;
+    border-radius: 2px;
+    font-family: var(--font-mulish);
+    color: var(--text-color);
+}
+
+.btn-blue {
+    background-color: var(--btn-color);
+    color: var(--white-color);
+    border: 1px solid var(--btn-color)
+}
+
+button[disabled],
+input[disabled],
+input[readonly] {
+    cursor: not-allowed;
+}
