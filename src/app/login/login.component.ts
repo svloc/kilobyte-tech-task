@@ -33,18 +33,16 @@ export class LoginComponent implements OnInit {
 
   loginRequest() {
     if (this.loginForm.valid) {
-      localStorage.setItem("token","eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjVmNGYxMzIxZWNmYzY0MTQ2Yjc5OGYiLCJkYXRlIjoiMjAyMy0wOC0wOVQxMDowNjoxOC4xOTRaIiwiaWF0IjoxNjkxNTc1NTc4fQ.ExQpfH9zUKabsllsbnoxFMy1kz6II29G1bNQa65vFGg");
       this.authService.login(this.loginForm.value).subscribe((suc) => {
         if (suc) {
-          Swal.fire('Login Success', 'Welcome Back' + ' ' + this.loginForm.value.email, 'success');
+          Swal.fire('Login Success', 'Welcome Back', 'success');
+          console.log("res==>",suc.token);
+          localStorage.setItem("token",suc.token);
           this.loginForm.reset();
           this.router.navigate(['/dashboard']);
-        } else {
-          Swal.fire('Oops', "suc.message", 'error');
-        }
+        } 
       },
         (err) => {
-          this.router.navigate(['/dashboard']);
           if (err.status == 401) {
             Swal.fire('Oops', "Invalid Email/Password", 'error');
           } else {

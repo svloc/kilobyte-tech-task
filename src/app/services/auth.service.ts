@@ -12,6 +12,6 @@ export class AuthService {
     this.api_auth = environment.loginUrl;
   }
   login(user: any): Observable<any> {
-    return this.http.post(this.api_auth + '/signin', user);
+    return this.http.post(this.api_auth, user);
   }
 }
