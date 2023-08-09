@@ -6,10 +6,10 @@
                 <h2 class="pb-4 text-left">Welcome Back!</h2>
             </strong>
             <div class="my-4">
-                <input type="text" class="form-input" placeholder="Enter Your Username" formControlName="username" />
-                <div *ngIf="loginForm.get('username').invalid && loginForm.get('username').touched"
+                <input type="text" class="form-input" placeholder="Enter Your Email" formControlName="email" />
+                <div *ngIf="loginForm.get('email').invalid && loginForm.get('email').touched"
                     class="text-red ml-1 text-left">
-                    <div *ngIf="loginForm.get('username').errors?.['required']"><small>Username is required</small>
+                    <div *ngIf="loginForm.get('email').errors?.['required']"><small>email is required</small>
                     </div>
                 </div>
             </div>

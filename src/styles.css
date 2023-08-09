@@ -26,6 +26,7 @@ body {
     --box-shadow-input-focus: 0 0 0 0.11rem var(--btn-color);
     --box-shadow-danger-btn-focus: 0 0 0 0.11rem var(--orange-light-color);
     --white-color: #fff;
+    --green-color:#059862;
 }
 
 .text-blue {
@@ -82,8 +83,28 @@ input.ng-invalid.ng-touched {
     border: 1px solid var(--btn-color)
 }
 
+.btn-green{
+    background: var(--green-color);
+    color:var(--white-color);
+}
+
 button[disabled],
 input[disabled],
 input[readonly] {
     cursor: not-allowed;
 }
+
+.table{
+    border-collapse: collapse;
+    width: 100%;
+    font-family: var(--font-mulish);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.td,.th{
+    border-bottom: 1px solid #ddd;
+    padding: 12px 20px;
+    text-align: left;
+  }
+  .td{
+    color: var(--btn-color);
+  }

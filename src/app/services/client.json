@@ -1,0 +1,1586 @@
+{
+    "_metaData": {
+      "page": 1,
+      "per_page": 20,
+      "page_count": 2,
+      "total_count": 31
+    },
+    "records": [
+      {
+        "address": {
+          "line1": "1",
+          "pincode": 1111,
+          "state": "Bihar"
+        },
+        "pancard": {
+          "file": "https://hma-users.s3.ap-south-1.amazonaws.com/aacee839-c2c2-4f39-a745-9a96ac1e5657.jpeg",
+          "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/aacee839-c2c2-4f39-a745-9a96ac1e5657.jpeg"
+        },
+        "communicationEmails": [],
+        "documentsActivated": [],
+        "assignedMembers": [],
+        "_id": "647a358c51e450188329f5b4",
+        "name": "kajk",
+        "companyName": "uiiu",
+        "phone_no": 8799898999,
+        "email": "admin@gmail.com",
+        "stateGst": [
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/2f5716b1-b838-4f44-97d4-581a4497cf37.jpeg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/fda9e305-a543-444b-b1b7-01de59114697.png"
+            },
+            "isDeleted": false,
+            "_id": "647abd2951e450188329f85f",
+            "gstId": "227486348374343",
+            "state": "Chhattisgarh"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/42f5207c-c4c0-46f1-bf1c-7173aef06faf.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/5e3b7407-4521-473d-a45a-12c0721ebb65.png"
+            },
+            "isDeleted": false,
+            "_id": "647abd2951e450188329f860",
+            "gstId": "347589257984759",
+            "state": "Puducherry"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/13073444-936c-445b-a9d2-80cfc6980914.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/c719083d-3de9-4027-9326-80cb19ca99e3.png"
+            },
+            "isDeleted": false,
+            "_id": "647abd0a51e450188329f847",
+            "gstId": "328487328947343",
+            "state": "Kerala"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/9be08044-98fd-496e-917a-c76311a7190e.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/9be08044-98fd-496e-917a-c76311a7190e.jpg"
+            },
+            "isDeleted": false,
+            "_id": "647a358c51e450188329f5b5",
+            "gstId": "169892898292892",
+            "state": "Tripura"
+          }
+        ],
+        "stakeholderDetails": [
+          {
+            "pancard": {
+              "id": "8878787888"
+            },
+            "aadhaarCard": {
+              "id": "878787877878"
+            },
+            "_id": "647a358c51e450188329f5b6",
+            "name": "Namwe"
+          }
+        ],
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 83.33333333333334,
+        "clientID": "HMA1040",
+        "createdAt": "2023-06-02T18:31:40.762Z",
+        "updatedAt": "2023-06-03T04:10:17.361Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "address": {
+          "line1": "13221323",
+          "pincode": 2123823,
+          "state": "Chandigarh"
+        },
+        "pancard": {
+          "file": "https://hma-users.s3.ap-south-1.amazonaws.com/34b66c16-9f50-4159-b6e0-d13d7ce62620.png",
+          "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/34b66c16-9f50-4159-b6e0-d13d7ce62620.png"
+        },
+        "communicationEmails": [],
+        "documentsActivated": [],
+        "assignedMembers": [],
+        "_id": "647a25cf51e450188329ef95",
+        "name": "Ger",
+        "companyName": "gery",
+        "phone_no": 9812378227,
+        "email": "gery@gmail.com",
+        "preferences": "monthly",
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 91.66666666666666,
+        "clientID": "HMA1038",
+        "stateGst": [
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/acf0bc88-e228-488f-a2d9-2eee08c7bfc1.jpeg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/91db0f6e-0b26-4800-b72b-fc6abf776056.png"
+            },
+            "isDeleted": false,
+            "_id": "647a306151e450188329f3bc",
+            "gstId": "182362363623723",
+            "state": "Assam"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/cfdc016f-11b4-4e9b-b5d6-6800a82dad1f.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/b94f01f0-a0d3-4599-b7bf-8641e9ef79e6.png"
+            },
+            "isDeleted": false,
+            "_id": "647a306151e450188329f3bd",
+            "gstId": "117974347437838",
+            "state": "Sikkim"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/9cfdfa4d-542c-4c03-aa1b-37cdab262523.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/9b76f762-fa96-4d65-88d2-b38294206d38.png"
+            },
+            "isDeleted": false,
+            "_id": "647a306151e450188329f3be",
+            "gstId": "122983832388832",
+            "state": "Arunachal Pradesh"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/d794b638-8d68-403d-8d38-44d0d153f0c5.jpeg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/336af83d-f01c-4b5f-a1b0-05c5fb2b3c22.png"
+            },
+            "isDeleted": false,
+            "_id": "647a300a51e450188329f38e",
+            "gstId": "373909290390200",
+            "state": "Andhra Pradesh"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/3a4b7eef-1e42-49d0-be4b-3eae68814ac0.jpeg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/19b6a806-9e47-466b-b34e-dcb132c569f1.png"
+            },
+            "isDeleted": false,
+            "_id": "647a2f9751e450188329f353",
+            "gstId": "099887877777777",
+            "state": "Uttar Pradesh"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/ecaf084a-26a1-419d-a6e6-2f1bd60e4236.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/1d5d67f1-bcef-41da-8039-3214a80c9dfb.png"
+            },
+            "isDeleted": false,
+            "_id": "647a2f9751e450188329f354",
+            "gstId": "123333333333333",
+            "state": "Arunachal Pradesh"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/eafe2b24-13a0-44b3-953f-3b613cab7ab6.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/75baa51a-2419-4512-b61d-fe3b567d8dde.png"
+            },
+            "isDeleted": false,
+            "_id": "647a2f9751e450188329f355",
+            "gstId": "110009929929922",
+            "state": "Sikkim"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/7eb19795-c7e8-4dd5-830a-d51acdfb4b89.jpeg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/b64235e8-7d50-4f8b-96ad-cfb104db66f9.png"
+            },
+            "isDeleted": false,
+            "_id": "647a2d8451e450188329f2bd",
+            "gstId": "374667678787799",
+            "state": "Andhra Pradesh"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/0f9bdb3e-3827-4858-aab2-d1edd4bfc493.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/c165de64-e1ce-46b7-b21b-1f606edc0f11.png"
+            },
+            "isDeleted": false,
+            "_id": "647a2dd151e450188329f2db",
+            "gstId": "123576868878788",
+            "state": "Arunachal Pradesh"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/360486d6-4af3-48b9-8fb0-fe2014e12651.jpeg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/929dd066-f093-4ac1-8f8c-fe1b6afcad68.png"
+            },
+            "isDeleted": false,
+            "_id": "647a2d3651e450188329f299",
+            "gstId": "345677980967888",
+            "state": "Puducherry"
+          },
+          null,
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/30a8deca-56db-4edf-9d4a-9862e0c46720.jpeg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/b3eafae8-e43b-4946-a39e-fc5be4c8661f.png"
+            },
+            "isDeleted": false,
+            "_id": "647a2cfb51e450188329f26b",
+            "gstId": "013456677878787",
+            "state": "Jammu and Kashmir"
+          },
+          null,
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/6eda2744-ad2b-4e6e-a99f-eb437cd3a313.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/53c390a8-fa1d-4419-982e-0f5bc409cd0f.png"
+            },
+            "isDeleted": false,
+            "_id": "647a2c8e51e450188329f23e",
+            "gstId": "110902090909090",
+            "state": "Sikkim"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/34cb8643-d5b2-465b-a281-72a7f0ed6239.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/d0ac1d50-64a6-4193-bd85-a21a1549e051.png"
+            },
+            "isDeleted": false,
+            "_id": "647a2c8e51e450188329f23f",
+            "gstId": "102742567882233",
+            "state": "Bihar"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/62b7365b-f42b-4f1e-9673-263cf9c6ce4e.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/706e2587-f9a5-4bcc-8fed-1e89ed748dac.png"
+            },
+            "isDeleted": false,
+            "_id": "647a2c2c51e450188329f214",
+            "gstId": "097726537657728",
+            "state": "Uttar Pradesh"
+          }
+        ],
+        "stakeholderDetails": [
+          {
+            "pancard": {
+              "id": "2222222222",
+              "file": null,
+              "preview": null
+            },
+            "aadhaarCard": {
+              "id": "576854567567",
+              "file": null,
+              "preview": null
+            },
+            "profilePicture": {
+              "file": null,
+              "preview": null
+            },
+            "_id": "647a2e4151e450188329f30e",
+            "name": "4576895"
+          },
+          {
+            "pancard": {
+              "id": "5768798767",
+              "file": "",
+              "preview": ""
+            },
+            "aadhaarCard": {
+              "id": "456789884456",
+              "file": "",
+              "preview": ""
+            },
+            "profilePicture": {
+              "file": "",
+              "preview": ""
+            },
+            "_id": "647a2e4151e450188329f30f",
+            "name": "4567889856545"
+          },
+          {
+            "pancard": {
+              "id": "1111111111",
+              "file": null,
+              "preview": null
+            },
+            "aadhaarCard": {
+              "id": "676787565675",
+              "file": null,
+              "preview": null
+            },
+            "profilePicture": {
+              "file": null,
+              "preview": null
+            },
+            "_id": "647a2e4151e450188329f310",
+            "name": "57678974565768989"
+          },
+          {
+            "pancard": {
+              "id": "4356786545",
+              "file": "",
+              "preview": ""
+            },
+            "aadhaarCard": {
+              "id": "765435678767",
+              "file": "",
+              "preview": ""
+            },
+            "profilePicture": {
+              "file": "",
+              "preview": ""
+            },
+            "_id": "647a2e1951e450188329f2f3",
+            "name": "3456789876543456787"
+          },
+          {
+            "pancard": {
+              "id": "1234567876",
+              "file": "",
+              "preview": ""
+            },
+            "aadhaarCard": {
+              "id": "123456456754",
+              "file": "",
+              "preview": ""
+            },
+            "profilePicture": {
+              "file": "",
+              "preview": ""
+            },
+            "_id": "647a2d1351e450188329f280",
+            "name": "XYZ"
+          },
+          {
+            "pancard": {
+              "id": "1234567892",
+              "file": null,
+              "preview": null
+            },
+            "aadhaarCard": {
+              "id": "999999999999",
+              "file": null,
+              "preview": null
+            },
+            "profilePicture": {
+              "file": null,
+              "preview": null
+            },
+            "_id": "647a2bc851e450188329f1e3",
+            "name": "HIJK"
+          },
+          {
+            "pancard": {
+              "id": "1111111111",
+              "file": "",
+              "preview": ""
+            },
+            "aadhaarCard": {
+              "id": "111111111111",
+              "file": "",
+              "preview": ""
+            },
+            "profilePicture": {
+              "file": "",
+              "preview": ""
+            },
+            "_id": "647a2bc851e450188329f1e4",
+            "name": "ABCD"
+          },
+          {
+            "pancard": {
+              "id": "7777777777",
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/22f7a617-8273-4cdb-87a6-106704cd41c9.jpeg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/22f7a617-8273-4cdb-87a6-106704cd41c9.jpeg"
+            },
+            "aadhaarCard": {
+              "id": "777777777777",
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/9d30c3ce-aff4-4e2b-99d0-341e2587dffb.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/9d30c3ce-aff4-4e2b-99d0-341e2587dffb.png"
+            },
+            "profilePicture": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/2ce78d77-834a-49f6-b5e8-e8711df336d4.jpeg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/2ce78d77-834a-49f6-b5e8-e8711df336d4.jpeg"
+            },
+            "_id": "647a2b0d51e450188329f1bd",
+            "name": "EFGH"
+          },
+          {
+            "pancard": {
+              "id": "7493749837",
+              "file": "",
+              "preview": ""
+            },
+            "aadhaarCard": {
+              "id": "283983749833",
+              "file": "",
+              "preview": ""
+            },
+            "profilePicture": {
+              "file": "",
+              "preview": ""
+            },
+            "_id": "647a2a4651e450188329f17e",
+            "name": "Dev "
+          }
+        ],
+        "createdAt": "2023-06-02T17:24:31.457Z",
+        "updatedAt": "2023-06-02T18:09:37.384Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "address": {
+          "line1": "Agra",
+          "pincode": 101010,
+          "state": "Uttar Pradesh"
+        },
+        "pancard": {
+          "file": "https://hma-users.s3.amazonaws.com/4dd3d59a-4f8f-4156-99a6-6979ee853704.jpeg"
+        },
+        "communicationEmails": [],
+        "documentsActivated": [
+          "GST_3B",
+          "GST_AUDIT",
+          "GST_R1",
+          "GST_LUT",
+          "TDS_SALARY",
+          "TDS_NON_SALARY",
+          "TCS_RETURN_FILLING_ACKNOWLEDGEMENT",
+          "TCS_CERTIFICATE",
+          "TCS_FORM_27_EQ",
+          "TCS_WORKING_FOLDER",
+          "ESI_PF_ESI_CHALLAN",
+          "ESI_PF_PF_CHALLAN",
+          "ADVANCE_TAX_INDIVIDUAL",
+          "ADVANCE_TAX_COMPANY",
+          "INCOME_TAX_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_NON_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_COMPANY"
+        ],
+        "assignedMembers": [],
+        "_id": "64758ee568a8991e9052eba5",
+        "name": "Amy",
+        "companyName": "Amy limited",
+        "phone_no": 9876543211,
+        "email": "amy@gmail.com",
+        "preferences": "monthly",
+        "iecGate": "IEC Gate",
+        "iecCode": "101",
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 116.66666666666667,
+        "clientID": "HMA1037",
+        "stateGst": [
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/b8472a18-a5a2-4f88-94c1-9349abcdbb3c.jpeg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/fee8faa6-e42e-4055-b634-ea2008641647.png"
+            },
+            "isDeleted": false,
+            "_id": "6479d4ac51e450188329ee5c",
+            "gstId": "123456758769889",
+            "state": "Arunachal Pradesh"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/ebac2169-a477-4fbd-8deb-3b9ec13a1382.jpeg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/1ef6434e-ddbe-41d1-96f9-7b79cbc969fc.png"
+            },
+            "isDeleted": false,
+            "_id": "6479d4ca51e450188329eee8",
+            "gstId": "123456456716882",
+            "state": "Arunachal Pradesh"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/3ee4b71f-abc1-4aea-8ccf-09eeaa5ab608.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/da50591a-b0f5-4fbc-aab6-f5d90e0cac85.png"
+            },
+            "isDeleted": false,
+            "_id": "6479d4db51e450188329ef08",
+            "gstId": "154767877511221",
+            "state": "Mizoram"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/f6674e53-afae-467f-9dd7-4ad6e1bb4edf.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/f6674e53-afae-467f-9dd7-4ad6e1bb4edf.png"
+            },
+            "isDeleted": false,
+            "_id": "6479cdbc51e450188329ecd8",
+            "gstId": "336876878786675",
+            "state": "Tamil Nadu"
+          }
+        ],
+        "stakeholderDetails": [
+          {
+            "pancard": {
+              "file": "",
+              "preview": ""
+            },
+            "aadhaarCard": {
+              "file": "",
+              "preview": ""
+            },
+            "profilePicture": {
+              "file": "",
+              "preview": ""
+            },
+            "_id": "6479b16a51e450188329ea62",
+            "name": "765456789"
+          }
+        ],
+        "createdAt": "2023-05-30T05:51:33.198Z",
+        "updatedAt": "2023-06-02T17:19:32.978Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "address": {
+          "line1": "Demo",
+          "pincode": 400023,
+          "state": "Assam"
+        },
+        "pancard": {
+          "file": "https://hma-users.s3.amazonaws.com/a62447f4-682e-49c6-bb16-b43a77afec04.jpeg"
+        },
+        "communicationEmails": [],
+        "documentsActivated": [
+          "GST_3B",
+          "GST_AUDIT",
+          "GST_R1",
+          "GST_LUT",
+          "TDS_SALARY",
+          "TDS_NON_SALARY",
+          "TCS_RETURN_FILLING_ACKNOWLEDGEMENT",
+          "TCS_CERTIFICATE",
+          "TCS_FORM_27_EQ",
+          "TCS_WORKING_FOLDER",
+          "ESI_PF_ESI_CHALLAN",
+          "ESI_PF_PF_CHALLAN",
+          "ADVANCE_TAX_INDIVIDUAL",
+          "ADVANCE_TAX_COMPANY",
+          "INCOME_TAX_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_NON_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_COMPANY"
+        ],
+        "assignedMembers": [],
+        "_id": "6475872f3a241402049f56e6",
+        "name": "Demo",
+        "companyName": "Demo limited",
+        "phone_no": 9487495434,
+        "email": "demooo@gmail.com",
+        "preferences": "monthly",
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 76.92307692307693,
+        "clientID": "HMA1036",
+        "stateGst": [],
+        "stakeholderDetails": [],
+        "createdAt": "2023-05-30T05:18:39.815Z",
+        "updatedAt": "2023-05-30T05:18:39.815Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "communicationEmails": [],
+        "documentsActivated": [],
+        "assignedMembers": [],
+        "_id": "6474463b6fd9d293f2797796",
+        "name": "HMA Admin",
+        "email": "admin@gmail.com",
+        "phone_no": 9818442655,
+        "role": {
+          "modules": [
+            "dashboard.paymentTrends",
+            "dashboard.counters",
+            "dashboard.read",
+            "dashboard.defaultingClients",
+            "dashboard.todayActivities",
+            "dashboard.latestPayments",
+            "dashboard.leaderBoard",
+            "client.create",
+            "client.read",
+            "client.update",
+            "client.delete",
+            "client.profile",
+            "task.read",
+            "documents.read",
+            "documents.update",
+            "documents.delete",
+            "payment.read",
+            "payment.create",
+            "payment.update",
+            "payment.delete",
+            "settings.read",
+            "user.delete",
+            "user.create",
+            "user.read",
+            "user.update",
+            "user.block"
+          ],
+          "_id": "admin"
+        },
+        "clientID": "hma1012",
+        "profilePercentage": 66.66666666666666,
+        "stateGst": [],
+        "stakeholderDetails": [],
+        "createdAt": "2020-07-26T15:50:58.349Z",
+        "updatedAt": "2020-09-11T06:33:25.895Z",
+        "deleted": false,
+        "deletedAt": "2020-08-21T04:52:21.248Z"
+      },
+      {
+        "address": {
+          "line1": "",
+          "line2": "",
+          "pincode": null,
+          "state": ""
+        },
+        "communicationEmails": [],
+        "documentsActivated": [],
+        "assignedMembers": [
+          {
+            "_id": "60a6caf61c175c581038702e",
+            "name": "Bharat",
+            "email": "bharat@test.com",
+            "clientID": "HMA1026",
+            "createdAt": "2021-05-20T20:47:50.883Z",
+            "updatedAt": "2023-05-29T07:40:45.338Z"
+          }
+        ],
+        "_id": "615ff661d509da0898ecd61b",
+        "name": "Anurag gg",
+        "email": "anurag@kilobytetech.com",
+        "phone_no": 9205847150,
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 91.66666666666666,
+        "clientID": "HMA1027",
+        "stateGst": [],
+        "stakeholderDetails": [],
+        "createdAt": "2021-10-08T07:42:25.361Z",
+        "updatedAt": "2023-05-29T11:06:37.516Z",
+        "deleted": false,
+        "deletedAt": null,
+        "isBlocked": false,
+        "iecCode": "",
+        "iecGate": ""
+      },
+      {
+        "communicationEmails": [],
+        "documentsActivated": [],
+        "assignedMembers": [],
+        "_id": "60a6caf61c175c581038702e",
+        "name": "Bharat",
+        "email": "bharat@test.com",
+        "phone_no": 8218196896,
+        "role": {
+          "modules": [
+            "client.read.y",
+            "client.profile.y",
+            "task.read.y",
+            "documents.read.y",
+            "documents.update.y"
+          ],
+          "_id": "employee"
+        },
+        "profilePercentage": 83.33333333333334,
+        "clientID": "HMA1026",
+        "stateGst": [],
+        "stakeholderDetails": [],
+        "createdAt": "2021-05-20T20:47:50.883Z",
+        "updatedAt": "2023-05-29T07:40:45.338Z",
+        "deleted": false,
+        "deletedAt": null,
+        "isBlocked": false
+      },
+      {
+        "address": {
+          "line1": "Kashipur",
+          "pincode": 244713,
+          "state": "Uttarakhand"
+        },
+        "pancard": {
+          "file": "https://hma-users.s3.amazonaws.com/b43f5e43-e3d6-4bd5-b818-4bddd8a0f011.pdf",
+          "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/6f7286bf-2dc3-4a94-8d7b-784d378e2fb1.png"
+        },
+        "communicationEmails": [],
+        "documentsActivated": [
+          "GST_3B",
+          "GST_R1",
+          "INCOME_TAX_COMPANY"
+        ],
+        "assignedMembers": [
+          {
+            "_id": "60a6caf61c175c581038702e",
+            "name": "Bharat",
+            "email": "bharat@test.com",
+            "clientID": "HMA1026",
+            "createdAt": "2021-05-20T20:47:50.883Z",
+            "updatedAt": "2023-05-29T07:40:45.338Z"
+          }
+        ],
+        "_id": "60a6ca6f1c175c5810387028",
+        "name": "Bharat",
+        "companyName": "Ankart Solutions LLP",
+        "phone_no": 8791683180,
+        "email": "ankartsolutions@gmail.com",
+        "preferences": "monthly",
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 116.66666666666667,
+        "clientID": "HMA1025",
+        "stateGst": [],
+        "stakeholderDetails": [],
+        "createdAt": "2021-05-20T20:45:35.115Z",
+        "updatedAt": "2021-05-20T20:50:07.904Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "address": {
+          "line1": "demo",
+          "pincode": 400004,
+          "state": "Maharashtra"
+        },
+        "pancard": {
+          "file": "https://hma-users.s3.amazonaws.com/c9289915-1f43-4be8-928a-104c457bb9b5.jpeg",
+          "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/04e7ca43-54ce-4307-b60f-d100d61c4ff6.png"
+        },
+        "communicationEmails": [],
+        "documentsActivated": [
+          "GST_AUDIT",
+          "GST_R1",
+          "GST_LUT",
+          "TDS_SALARY",
+          "TDS_NON_SALARY",
+          "TCS_RETURN_FILLING_ACKNOWLEDGEMENT",
+          "TCS_CERTIFICATE",
+          "TCS_FORM_27_EQ",
+          "TCS_WORKING_FOLDER",
+          "ESI_PF_ESI_CHALLAN",
+          "ESI_PF_PF_CHALLAN",
+          "ADVANCE_TAX_INDIVIDUAL",
+          "ADVANCE_TAX_COMPANY",
+          "INCOME_TAX_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_NON_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_COMPANY"
+        ],
+        "assignedMembers": [
+          {
+            "_id": "5f5b1cfa4e3ab02f149fcbd4",
+            "name": "Test employee",
+            "email": "employee@gmail.com",
+            "clientID": "HMA1010",
+            "createdAt": "2020-09-11T06:45:14.199Z",
+            "updatedAt": "2020-09-11T06:45:14.199Z"
+          }
+        ],
+        "_id": "60a54dbb926c715fbf194213",
+        "name": "Demo ",
+        "companyName": "Demo client",
+        "phone_no": 9999999999,
+        "email": "demo@abc.com",
+        "preferences": "quarterly",
+        "iecGate": "111",
+        "iecCode": "111",
+        "stateGst": [
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/abaeb391-e277-4ac3-ad1e-6c905d31f13f.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/fb2a853a-72f7-48db-b10e-657cbc2feafa.png"
+            },
+            "isDeleted": false,
+            "_id": "60a54dbb926c715fbf194214",
+            "gstId": "111111111111111",
+            "state": "Sikkim"
+          }
+        ],
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 133.33333333333331,
+        "clientID": "HMA1024",
+        "stakeholderDetails": [],
+        "createdAt": "2021-05-19T17:41:15.717Z",
+        "updatedAt": "2021-05-19T17:42:42.650Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "communicationEmails": [
+          "admin@hackbuddy.in",
+          "hackbuddy.63@gmail.com"
+        ],
+        "documentsActivated": [],
+        "assignedMembers": [],
+        "_id": "5f85754177cab68d817d9575",
+        "name": "Nikhil",
+        "companyName": "HackBuddy",
+        "email": "nikhilmisra63+2@gmail.com",
+        "phone_no": 93109732,
+        "stakeholderDetails": [
+          {
+            "pancard": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/328c04be-36ed-468a-8dbe-5b29428389e4.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/14e7a237-695d-4d10-9843-7fa8347fdd9a.png"
+            },
+            "aadhaarCard": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/c79e0c79-2114-442c-bbe6-69cacbfc1db1.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/8d401278-c1c6-4dbf-8ced-b7164d913062.png"
+            },
+            "_id": "5f85754177cab68d817d9576",
+            "name": "Stakeholder"
+          }
+        ],
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "stateGst": [],
+        "createdAt": "2020-10-13T09:37:05.817Z",
+        "updatedAt": "2020-10-13T09:37:05.817Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "communicationEmails": [],
+        "documentsActivated": [],
+        "assignedMembers": [],
+        "_id": "5f855fa560dbd08804799848",
+        "stateGst": [],
+        "stakeholderDetails": [],
+        "createdAt": "2020-10-13T08:04:53.805Z",
+        "updatedAt": "2020-10-13T08:04:53.805Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "communicationEmails": [],
+        "documentsActivated": [],
+        "assignedMembers": [],
+        "_id": "5f800bfcf431a6d57806527f",
+        "email": "nikhilmisra63+3@gmail.com",
+        "companyName": "hma",
+        "phone_no": 7749996127,
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 38.46153846153847,
+        "clientID": "HMA1021",
+        "stateGst": [],
+        "stakeholderDetails": [],
+        "createdAt": "2020-10-09T07:06:36.269Z",
+        "updatedAt": "2020-10-09T07:06:36.269Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "address": {
+          "line1": "Mobiistar Dilkhush ",
+          "line2": "Bagh Industrial Area GT Karnal Road",
+          "pincode": 110052,
+          "state": "Chandigarh"
+        },
+        "pancard": {
+          "file": "https://hma-users.s3.amazonaws.com/2cf70f5f-cd71-454b-a23d-784966a3c710.jpg",
+          "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/c28251ff-d1f8-46b1-b06e-9c0b5662ff7e.png"
+        },
+        "communicationEmails": [],
+        "documentsActivated": [
+          "GST_3B",
+          "GST_AUDIT"
+        ],
+        "assignedMembers": [],
+        "_id": "5f645c4fc058246d853154a0",
+        "name": "HackBuddy",
+        "companyName": "Hackbuddy",
+        "phone_no": 8798789783,
+        "email": "nikhilmisra63+1@gmail.com",
+        "preferences": "monthly",
+        "iecGate": "34543545",
+        "iecCode": "34543534",
+        "stateGst": [
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/20ab288a-d4e6-4021-93ec-c10e48a999f7.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/a688ab8e-3b2d-43a7-a258-ea097e87fffc.png"
+            },
+            "isDeleted": false,
+            "_id": "5f645c4fc058246d853154a1",
+            "gstId": "254325435435454",
+            "state": "Daman and Diu"
+          }
+        ],
+        "role": {
+          "modules": [
+            "client.read.y",
+            "client.profile.y",
+            "task.read.y",
+            "documents.read.y",
+            "documents.update.y"
+          ],
+          "_id": "employee"
+        },
+        "profilePercentage": 100,
+        "clientID": "HMA1020",
+        "stakeholderDetails": [],
+        "createdAt": "2020-09-18T07:05:51.832Z",
+        "updatedAt": "2020-09-18T07:05:51.832Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "address": {
+          "line1": "Mobiistar Dilkhush ",
+          "line2": "Bagh Industrial Area GT Karnal Road",
+          "pincode": 110052,
+          "state": "Chandigarh"
+        },
+        "pancard": {
+          "file": "https://hma-users.s3.amazonaws.com/2cf70f5f-cd71-454b-a23d-784966a3c710.jpg",
+          "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/c28251ff-d1f8-46b1-b06e-9c0b5662ff7e.png"
+        },
+        "communicationEmails": [
+          "abc@apple.com",
+          "def@apple.com",
+          "ghi@apple.com"
+        ],
+        "documentsActivated": [
+          "GST_3B",
+          "GST_AUDIT",
+          "TDS_NON_SALARY",
+          "TCS_RETURN_FILLING_ACKNOWLEDGEMENT",
+          "TCS_CERTIFICATE",
+          "ESI_PF_ESI_CHALLAN",
+          "ESI_PF_PF_CHALLAN",
+          "ADVANCE_TAX_INDIVIDUAL",
+          "INCOME_TAX_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_NON_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_COMPANY"
+        ],
+        "assignedMembers": [],
+        "_id": "5f644bf084dd7c112af5a689",
+        "name": "Kamlesh",
+        "companyName": "Apple",
+        "phone_no": 8798789783,
+        "email": "kamlesh@gmail.com",
+        "preferences": "monthly",
+        "iecGate": "345435459",
+        "iecCode": "34543534",
+        "stateGst": [
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/20ab288a-d4e6-4021-93ec-c10e48a999f7.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/a688ab8e-3b2d-43a7-a258-ea097e87fffc.png"
+            },
+            "isDeleted": false,
+            "_id": "5f68cf9253233b2d0d4affef",
+            "gstId": "254325435435454",
+            "state": "Delhi"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.amazonaws.com/17f17a40-c05a-4034-bc11-9ff54878bb60.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/8607604d-98e3-4b1f-b8db-c67b806882c9.png"
+            },
+            "isDeleted": true,
+            "_id": "5f68d7738b37a62ef4c3bdb5",
+            "gstId": "124435454544555",
+            "state": "Arunachal Pradesh"
+          }
+        ],
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 133.33333333333331,
+        "clientID": "HMA1019",
+        "stakeholderDetails": [
+          {
+            "pancard": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/d4cfa902-c2af-4cbf-8bf5-02fb3f433a0a.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/9420f307-b1a3-448c-bbbc-c02bde6d77cc.png"
+            },
+            "aadhaarCard": {
+              "file": "",
+              "preview": ""
+            },
+            "profilePicture": {
+              "file": "",
+              "preview": ""
+            },
+            "_id": "5f7df305df739318feffaed0",
+            "name": "Test 2"
+          },
+          {
+            "pancard": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/d8be6c67-0de3-4959-a6bd-aab338f73517.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/ae0a9784-cb02-41bb-9280-de5e33d56d74.png"
+            },
+            "aadhaarCard": {
+              "file": "",
+              "preview": ""
+            },
+            "profilePicture": {
+              "file": "",
+              "preview": ""
+            },
+            "_id": "5f7fe917df739318feffaf24",
+            "name": "Prakhar Agarwal"
+          }
+        ],
+        "createdAt": "2020-09-18T05:56:00.515Z",
+        "updatedAt": "2020-10-09T04:37:43.977Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "address": {
+          "line1": "Ultratech",
+          "pincode": 110020,
+          "state": "Delhi"
+        },
+        "pancard": {
+          "file": "https://hma-users.s3.amazonaws.com/a94a8ce1-29af-4d44-b2f4-04fd7adf10c8.png",
+          "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/8caee931-29ed-460c-a793-e35d1176316d.png"
+        },
+        "communicationEmails": [],
+        "documentsActivated": [
+          "GST_3B",
+          "GST_AUDIT",
+          "GST_R1",
+          "GST_LUT"
+        ],
+        "assignedMembers": [],
+        "_id": "5f642963985678101e0e020d",
+        "name": "Prakhar",
+        "companyName": "Ultratech",
+        "phone_no": 7895310001,
+        "email": "prakhar@ultratech.co",
+        "preferences": "monthly",
+        "stateGst": [
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/a52905bd-8d9a-469f-8839-4c53bec6d892.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/7fe92a21-b6b2-4b27-ba81-cfeade01dfae.png"
+            },
+            "isDeleted": false,
+            "_id": "5f642963985678101e0e020e",
+            "gstId": "090022333334444",
+            "state": "Uttar Pradesh"
+          }
+        ],
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 116.66666666666667,
+        "clientID": "HMA1017",
+        "stakeholderDetails": [],
+        "createdAt": "2020-09-18T03:28:35.146Z",
+        "updatedAt": "2020-09-18T04:39:17.645Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "address": {
+          "line1": "Modsys Software Pvt. Ltd. ",
+          "line2": "Gokula Extension 12th Main Road",
+          "pincode": 263139,
+          "state": "Uttarakhand"
+        },
+        "pancard": {
+          "pancardId": "2343243434",
+          "file": "https://hma-users.s3.ap-south-1.amazonaws.com/2d44f0b3-768c-47d1-9fc1-c876d8614473.jpg",
+          "preview": "https://hma-users.s3.amazonaws.com/284531d2-1ad4-4737-9ef8-1012cdb9ddaa.png"
+        },
+        "communicationEmails": [
+          "umeshdhauni@gmail.com",
+          "umesh@gmail.com"
+        ],
+        "documentsActivated": [
+          "GST_3B",
+          "GST_LUT",
+          "TDS_SALARY",
+          "TDS_NON_SALARY",
+          "TCS_RETURN_FILLING_ACKNOWLEDGEMENT",
+          "TCS_WORKING_FOLDER",
+          "ESI_PF_ESI_CHALLAN",
+          "ESI_PF_PF_CHALLAN",
+          "ADVANCE_TAX_COMPANY",
+          "INCOME_TAX_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_NON_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_COMPANY"
+        ],
+        "assignedMembers": [],
+        "_id": "5f60e62502392e786fa4ae95",
+        "name": "Umesh Dhauni",
+        "companyName": "Papergrid",
+        "phone_no": 7678767878,
+        "email": "umeshdhauni97@gmail.com",
+        "preferences": "monthly",
+        "stateGst": [
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/ed128e56-822a-4fa1-8316-b399da41c918.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/78f72837-9ef0-4255-a1e4-a8956f4f2cd5.png"
+            },
+            "isDeleted": false,
+            "_id": "5f60e62502392e786fa4ae97",
+            "gstId": "234324343434334",
+            "state": "Uttarakhand"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/14178233-24a0-47a3-9033-812ff23c875e.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/ed730497-c450-4bfb-8ac4-d1b31c0a48a9.png"
+            },
+            "isDeleted": false,
+            "_id": "5f60e62502392e786fa4ae96",
+            "gstId": "232343254354545",
+            "state": "Karnataka"
+          }
+        ],
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 116.66666666666667,
+        "clientID": "HMA1016",
+        "stakeholderDetails": [],
+        "createdAt": "2020-09-15T16:04:53.082Z",
+        "updatedAt": "2020-09-17T17:36:20.541Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "address": {
+          "line1": "Ghittorni",
+          "line2": "South Delhi",
+          "pincode": 110030,
+          "state": "Delhi"
+        },
+        "pancard": {
+          "pancardId": "BPFP009922",
+          "file": "https://hma-users.s3.ap-south-1.amazonaws.com/67c079fa-561b-4e6d-914e-d063d0bbd1aa.png",
+          "preview": "https://hma-users.s3.amazonaws.com/a5c33aef-e494-4d7d-a519-1242294bdcd6.png"
+        },
+        "communicationEmails": [],
+        "documentsActivated": [
+          "GST_3B",
+          "GST_R1",
+          "TDS_SALARY",
+          "TDS_NON_SALARY",
+          "TCS_RETURN_FILLING_ACKNOWLEDGEMENT",
+          "TCS_CERTIFICATE",
+          "TCS_FORM_27_EQ",
+          "TCS_WORKING_FOLDER",
+          "ESI_PF_ESI_CHALLAN",
+          "ESI_PF_PF_CHALLAN",
+          "ADVANCE_TAX_INDIVIDUAL",
+          "ADVANCE_TAX_COMPANY",
+          "INCOME_TAX_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_NON_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_COMPANY"
+        ],
+        "assignedMembers": [
+          {
+            "_id": "5f5f4f1321ecfc64146b798f",
+            "name": "Prakhar",
+            "email": "prakhar@kilobytetech.com",
+            "clientID": "HMA1014",
+            "createdAt": "2020-09-14T11:08:03.965Z",
+            "updatedAt": "2021-05-20T08:13:32.650Z"
+          },
+          {
+            "_id": "5f5aecdab78a010da7761887",
+            "name": "Niharika Gupta",
+            "email": "niharika@teamhma.com",
+            "clientID": "HMA1007",
+            "createdAt": "2020-09-11T03:19:54.891Z",
+            "updatedAt": "2020-09-11T05:47:18.854Z"
+          }
+        ],
+        "_id": "5f5f72582cb6df697038b115",
+        "name": "Prakhar Agrawal",
+        "companyName": "Kilobyte Technologies",
+        "phone_no": 7895310001,
+        "email": "sumbul@kilobytetech.com",
+        "preferences": "monthly",
+        "stateGst": [
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/8a014f83-ea90-4d83-917b-c9a58739383b.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/40a4a6e6-14f9-4e27-968c-585b92ff7b1d.png"
+            },
+            "isDeleted": false,
+            "_id": "5f5f9c6e02392e786fa4ae7d",
+            "gstId": "0900GH99SSSSD99",
+            "state": "Delhi"
+          }
+        ],
+        "stakeholderDetails": [
+          {
+            "pancard": {
+              "pancardId": "BPFP982822",
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/1349f3cd-5d25-48e5-9132-1cdb100e1d13.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/7f8d2e5e-3c47-472c-8b94-690b454a944a.png"
+            },
+            "aadhaarCard": {
+              "aadhaarCardId": "223344556655",
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/f99f2fc7-ac34-4cd5-9324-69a538deb9c2.pdf",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/97e580d4-7737-492e-81d7-2e8dd22c0d27.png"
+            },
+            "profilePicture": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/eb3dd3be-14a3-4953-9016-5603e6a9b0ce.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/770f6043-130a-4651-a02b-59f9824043d4.png"
+            },
+            "_id": "5f5f72582cb6df697038b117",
+            "name": "PRAKHAR AGRAWAL"
+          }
+        ],
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 100,
+        "clientID": "HMA1015",
+        "createdAt": "2020-09-14T13:38:32.970Z",
+        "updatedAt": "2020-09-16T16:23:02.496Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "communicationEmails": [],
+        "documentsActivated": [],
+        "assignedMembers": [],
+        "_id": "5f5f4f1321ecfc64146b798f",
+        "name": "Prakhar",
+        "email": "prakhar@kilobytetech.com",
+        "phone_no": 7895210001,
+        "role": {
+          "modules": [
+            "dashboard.paymentTrends",
+            "dashboard.counters",
+            "dashboard.read",
+            "dashboard.defaultingClients",
+            "dashboard.todayActivities",
+            "dashboard.latestPayments",
+            "dashboard.leaderBoard",
+            "client.create",
+            "client.read",
+            "client.update",
+            "client.delete",
+            "client.profile",
+            "task.read",
+            "documents.read",
+            "documents.update",
+            "documents.delete",
+            "payment.read",
+            "payment.create",
+            "payment.update",
+            "payment.delete",
+            "settings.read",
+            "user.delete",
+            "user.create",
+            "user.read",
+            "user.update",
+            "user.block"
+          ],
+          "_id": "admin"
+        },
+        "profilePercentage": 83.33333333333334,
+        "clientID": "HMA1014",
+        "stateGst": [],
+        "stakeholderDetails": [],
+        "createdAt": "2020-09-14T11:08:03.965Z",
+        "updatedAt": "2021-05-20T08:13:32.650Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "address": {
+          "line1": "Mobiistar Dilkhush Bagh ",
+          "line2": "Industrial Area GT Karnal Road",
+          "pincode": 263139,
+          "state": "Uttarakhand"
+        },
+        "pancard": {
+          "pancardId": "3454354354",
+          "file": "https://hma-users.s3.ap-south-1.amazonaws.com/3bfaf685-d8a1-4894-bd9f-ecac6d087706.jpg",
+          "preview": "https://hma-users.s3.amazonaws.com/6b99f7cb-22dd-48d7-8713-2b343cff2406.png"
+        },
+        "communicationEmails": [],
+        "documentsActivated": [
+          "GST_3B",
+          "TDS_SALARY",
+          "TCS_RETURN_FILLING_ACKNOWLEDGEMENT",
+          "ESI_PF_ESI_CHALLAN",
+          "ADVANCE_TAX_INDIVIDUAL",
+          "INCOME_TAX_COMPANY"
+        ],
+        "assignedMembers": [
+          {
+            "_id": "5f5f4f1321ecfc64146b798f",
+            "name": "Prakhar",
+            "email": "prakhar@kilobytetech.com",
+            "clientID": "HMA1014",
+            "createdAt": "2020-09-14T11:08:03.965Z",
+            "updatedAt": "2021-05-20T08:13:32.650Z"
+          },
+          {
+            "_id": "5f5aecdab78a010da7761887",
+            "name": "Niharika Gupta",
+            "email": "niharika@teamhma.com",
+            "clientID": "HMA1007",
+            "createdAt": "2020-09-11T03:19:54.891Z",
+            "updatedAt": "2020-09-11T05:47:18.854Z"
+          }
+        ],
+        "_id": "5f5f0a63cd548b7f82725c12",
+        "name": "Umesh Dhauni",
+        "companyName": "Google",
+        "phone_no": 8787678787,
+        "email": "umeshdhauni@gmail.com",
+        "preferences": "monthly",
+        "stateGst": [
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/f78ee0c7-6bda-43fe-ac1e-66bb9a035b64.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/9647147d-d94b-463b-9bd6-93c1d2d3e677.png"
+            },
+            "isDeleted": false,
+            "_id": "5f5f0a63cd548b7f82725c13",
+            "gstId": "345354545434344",
+            "state": "Uttarakhand"
+          }
+        ],
+        "stakeholderDetails": [
+          {
+            "pancard": {
+              "pancardId": "2342343433",
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/f6d42a39-f58e-4d58-8692-cb4d6f7dd191.jpg",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/cc0bcb21-bdb7-4b6e-84a4-0296180b1419.png"
+            },
+            "aadhaarCard": {
+              "aadhaarCardId": "234234343434"
+            },
+            "_id": "5f5f0a63cd548b7f82725c14",
+            "name": "Test "
+          }
+        ],
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 100,
+        "clientID": "HMA1012",
+        "createdAt": "2020-09-14T06:14:59.760Z",
+        "updatedAt": "2020-09-14T11:31:00.249Z",
+        "deleted": false,
+        "deletedAt": null
+      },
+      {
+        "address": {
+          "line1": "Saket",
+          "line2": "South Delhi",
+          "pincode": 110022,
+          "state": "Delhi"
+        },
+        "pancard": {
+          "pancardId": "BPFP232333",
+          "file": "https://hma-users.s3.ap-south-1.amazonaws.com/38f1115f-c405-46b0-85e2-8182ca49240a.pdf",
+          "preview": "https://hma-users.s3.amazonaws.com/9d1e050c-1e97-44ad-9ff8-08ac808d0bfa.png"
+        },
+        "communicationEmails": [],
+        "documentsActivated": [
+          "GST_3B",
+          "GST_AUDIT",
+          "GST_R1",
+          "TDS_SALARY",
+          "TCS_RETURN_FILLING_ACKNOWLEDGEMENT",
+          "TCS_CERTIFICATE",
+          "TCS_FORM_27_EQ",
+          "TCS_WORKING_FOLDER",
+          "ESI_PF_ESI_CHALLAN",
+          "ESI_PF_PF_CHALLAN",
+          "ADVANCE_TAX_INDIVIDUAL",
+          "ADVANCE_TAX_COMPANY",
+          "INCOME_TAX_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_NON_AUDITED_INDIVIDUAL",
+          "INCOME_TAX_COMPANY",
+          "TDS_SALARY_CHALLANS"
+        ],
+        "assignedMembers": [
+          {
+            "_id": "5f5b1cfa4e3ab02f149fcbd4",
+            "name": "Test employee",
+            "email": "employee@gmail.com",
+            "clientID": "HMA1010",
+            "createdAt": "2020-09-11T06:45:14.199Z",
+            "updatedAt": "2020-09-11T06:45:14.199Z"
+          },
+          {
+            "_id": "5f5aecdab78a010da7761887",
+            "name": "Niharika Gupta",
+            "email": "niharika@teamhma.com",
+            "clientID": "HMA1007",
+            "createdAt": "2020-09-11T03:19:54.891Z",
+            "updatedAt": "2020-09-11T05:47:18.854Z"
+          },
+          {
+            "_id": "5f58fd5271a37d3522080654",
+            "name": "Rajesh Jha",
+            "email": "rajesh@teamhma.com",
+            "clientID": "hma1002",
+            "createdAt": "2020-09-09T16:05:38.966Z",
+            "updatedAt": "2020-09-14T13:04:31.819Z"
+          }
+        ],
+        "_id": "5f5b7e7c87453b33278ed81f",
+        "name": "Rahul Goswami",
+        "companyName": "Shradda Saburi Pvt ltd",
+        "phone_no": 7897987778,
+        "email": "rahul@sshospitality.com",
+        "preferences": "monthly",
+        "stateGst": [
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/5b3ec730-48bf-48b9-91ee-856c8c6a6c73.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/f0be22ef-1f4f-45d4-881d-93a59851bec7.png"
+            },
+            "isDeleted": false,
+            "_id": "5f5b7e7c87453b33278ed821",
+            "gstId": "0908SDFDFDFFF99",
+            "state": "Delhi"
+          },
+          {
+            "regCertificate": {
+              "file": "https://hma-users.s3.ap-south-1.amazonaws.com/9116f372-eda4-47f4-9ab5-d5c34b3feddf.png",
+              "preview": "https://hma-users.s3.ap-south-1.amazonaws.com/bf1ab14f-1db3-4257-b930-4bdd8dc0b938.png"
+            },
+            "isDeleted": false,
+            "_id": "5f5b7e7c87453b33278ed820",
+            "gstId": "07FEWFEWFEWFEEW",
+            "state": "Uttar Pradesh"
+          }
+        ],
+        "stakeholderDetails": [
+          {
+            "pancard": {
+              "pancardId": null,
+              "file": null,
+              "preview": null
+            },
+            "aadhaarCard": {
+              "aadhaarCardId": null,
+              "file": null,
+              "preview": null
+            },
+            "profilePicture": {
+              "file": null,
+              "preview": null
+            },
+            "_id": "5f5b828487453b33278ed83d",
+            "name": null
+          }
+        ],
+        "role": {
+          "modules": [
+            "client.profile.y",
+            "documents.read.y",
+            "documents.update.y",
+            "payment.read.y"
+          ],
+          "_id": "client"
+        },
+        "profilePercentage": 100,
+        "clientID": "HMA1011",
+        "createdAt": "2020-09-11T13:41:16.478Z",
+        "updatedAt": "2020-09-11T13:58:28.903Z",
+        "deleted": false,
+        "deletedAt": null
+      }
+    ]
+  }
