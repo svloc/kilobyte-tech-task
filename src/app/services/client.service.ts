@@ -22,7 +22,6 @@ export class ClientService {
   viewAll(): Observable<any> {
     try {
       const headers = this.createAuthHeaders();
-      console.log(headers);
       return this.http.get(this.host, { headers });
     } catch (error) {
       return throwError('Something went wrong. Please try again later.');
